@@ -23,4 +23,5 @@ export default defineConfig({
   //   host:"192.168.192.18",
   //   port:4000
   // }
+  base:"/book-reader"
 });
