@@ -2,7 +2,7 @@
   "name": "vitetailwind",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://arslanata.github.io/book-reader/",
+  "homepage": "https://arslanAta.github.io/firstproject/",
   "type": "module",
   "scripts": {
     "dev": "vite",
